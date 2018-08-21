@@ -1,2 +1,7 @@
 # CIFAR10_01
-Just some experiments on Deep Learning to learn Keras and ConvNets.
+Just some experiments on Deep Learning to learn Keras and ConvNets. The data set I will use is CIFAR10, which contains:
+60000 images, each with 32x32x3 coloured belonging to 10 classes, with 6000 images per class. The data set is divided in training (50000) and test (10000).
+
+
+Where to find the data:
+https://www.cs.toronto.edu/~kriz/cifar.html
